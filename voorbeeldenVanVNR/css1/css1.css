@@ -8,13 +8,21 @@ body {
 
 h1 {
     font-size: 48px;
+<<<<<<< HEAD
     color: turquoise;
+=======
+    color: tur;
+>>>>>>> 28de1cdd85bc62a466effbb5316965b6d0a7349a
     margin: 0;
 }
 
 a {
     text-decoration: none;
+<<<<<<< HEAD
     color: aquamarine;
+=======
+    color: yellow;
+>>>>>>> 28de1cdd85bc62a466effbb5316965b6d0a7349a
 }
 
 span,a:hover {
